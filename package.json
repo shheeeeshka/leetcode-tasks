@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "crt": "node addTask.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
