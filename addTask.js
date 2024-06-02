@@ -6,10 +6,10 @@ const levels = {
     h: "hard"
 }
 
-const taskName = "43. Multiply Strings";
-const funcName = "multiply";
-const level = levels["m"];
-const taskUrl = "https://leetcode.com/problems/multiply-strings/description/";
+const taskName = "344. Reverse String";
+const funcName = "reverseString";
+const level = levels["e"];
+const taskUrl = "https://leetcode.com/problems/reverse-string/description/";
 
 const defaultContent = `import checkSolution from "../checkSolution.js";
 
